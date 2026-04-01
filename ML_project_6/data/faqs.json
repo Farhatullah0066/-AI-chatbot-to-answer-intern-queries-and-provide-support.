@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How do I submit my daily internship report?",
+    "answer": "Submit your daily report before 6 PM on the internship portal under Daily Logs.",
+    "intent": "report_submission"
+  },
+  {
+    "question": "What is the minimum attendance required for interns?",
+    "answer": "Interns should maintain at least 85 percent attendance throughout the internship.",
+    "intent": "attendance_policy"
+  },
+  {
+    "question": "How can I request leave during internship?",
+    "answer": "Apply through the HR leave form at least 24 hours before your leave date.",
+    "intent": "leave_request"
+  },
+  {
+    "question": "When is the final project submission deadline?",
+    "answer": "The final project submission deadline is Week 6, Sunday 11:59 PM.",
+    "intent": "deadline_query"
+  },
+  {
+    "question": "Who should I contact for technical issues?",
+    "answer": "You can contact your assigned technical mentor or post in the tech-support channel.",
+    "intent": "technical_support"
+  },
+  {
+    "question": "How do I get my internship completion certificate?",
+    "answer": "Certificates are issued after successful final evaluation and attendance verification.",
+    "intent": "certificate_query"
+  }
+]

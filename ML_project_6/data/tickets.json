@@ -1,0 +1,32 @@
+[
+  {
+    "query": "I cannot log in to the internship portal",
+    "resolution": "Reset your password using the Forgot Password option. If it still fails, contact IT support.",
+    "intent": "portal_login_issue"
+  },
+  {
+    "query": "My attendance was not marked today",
+    "resolution": "Share your check-in screenshot with HR and request a manual attendance update.",
+    "intent": "attendance_issue"
+  },
+  {
+    "query": "I submitted my report but it is not visible",
+    "resolution": "Refresh the portal and check submission history. If missing after 15 minutes, resend and notify mentor.",
+    "intent": "report_submission_issue"
+  },
+  {
+    "query": "How can I change my assigned project topic?",
+    "resolution": "Discuss with your mentor first and submit the project change request form for approval.",
+    "intent": "project_change_request"
+  },
+  {
+    "query": "I missed a meeting due to internet outage, what should I do?",
+    "resolution": "Inform your mentor with evidence and request meeting notes or a recording for catch-up.",
+    "intent": "meeting_absence"
+  },
+  {
+    "query": "Where can I submit my final presentation slides?",
+    "resolution": "Upload final slides in the project submissions section under Final Presentation.",
+    "intent": "presentation_submission"
+  }
+]
